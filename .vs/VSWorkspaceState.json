@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\Profile",
+    "\\src\\Components\\Profile\\MyPosts",
+    "\\src\\Components\\Profile\\MyPosts\\Post",
+    "\\src\\Components\\Profile\\ProfileInfo",
+    "\\src\\Components\\Users",
+    "\\src\\HOC",
+    "\\src\\Redux"
+  ],
+  "SelectedNode": "\\src\\Redux\\UsersReducer.js",
+  "PreviewInSolutionExplorer": false
+}
